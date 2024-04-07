@@ -37,7 +37,7 @@ export default [
         duration: 3000,
         description:
             <span>
-                <strong style={{ fontSize: "1.2em", fontWeight: "bold", color: "white" }}>checkingSamaritain AI</strong><br />
+                <strong style={{ fontSize: "1.2em", fontWeight: "bold", color: "white" }}>Samaritain AI</strong><br />
                 <span style={{ fontWeight: "bold", color: "white" }}>Jan 2024 - Present</span> <br />
                 Blockchain Research and Developer Intern
             </span>
