@@ -13,7 +13,7 @@ function HeroSection() {
 					ECE | 2024
 				</p>
 				<a
-					href='https://drive.google.com/file/d/1-xG6ujW5FS0SFWe16rwFHzifeeVjdTN7/view?usp=sharing'
+					href='https://drive.google.com/file/d/1Fxtimym_l4bxeGyIamZ5QcO8icagyCCl/view?usp=sharing'
 					target="_blank" rel="noopener noreferrer"
 					className="inline-block px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 md:text-md"
 				>
